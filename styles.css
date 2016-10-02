@@ -1,0 +1,18 @@
+body{
+	background-color: lightblue;
+}
+header>h1{
+	display: inline;
+	border: 1px solid black;
+
+}
+footer{
+	position: absolute;
+	left: 0;
+	right: 0;
+	border: 2px solid black;
+	text-align: center;
+}
+#header{
+	text-align: center;
+}
